@@ -1,0 +1,11 @@
+.card{
+    border-radius: 2.25rem !important;
+}
+
+.card-body{
+    border-radius: 2rem !important;
+}
+.fire{
+    border-color: orange !important;
+    background-color: orange;
+}
